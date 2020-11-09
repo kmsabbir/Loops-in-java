@@ -1,4 +1,5 @@
 package New.folder;
+
 public class AntyPyramidStarPattern {
 
   public static void main(String[] args) {
