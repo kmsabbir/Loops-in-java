@@ -1,9 +1,5 @@
 package New.folder;
 
-/**
- *
- * @author WIN
- */
 public class NumericalPattern1 {
     
     public static void main(String[] args) {
