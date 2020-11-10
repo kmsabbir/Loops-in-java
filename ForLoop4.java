@@ -6,7 +6,7 @@ public class ForLoop4 {
                System.out.print(" ");
            
            }
-               for(int k=4;k>=i;k--){
+              for(int k=4;k>=i;k--){
                    System.out.print("*");
                
                }
