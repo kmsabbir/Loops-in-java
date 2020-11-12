@@ -1,9 +1,5 @@
 package New.folder;
 
-/**
- *
- * @author WIN
- */
 public class StarPattern9 {
     public static void main(String[] args) {
       
