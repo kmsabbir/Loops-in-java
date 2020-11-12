@@ -1,5 +1,4 @@
 package New.folder;
-
 public class StarPattern9 {
     public static void main(String[] args) {
       
