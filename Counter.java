@@ -12,6 +12,6 @@ public class Counter {
                 }
             System.out.println();
             }
-           // System.out.println();
+          
      }
 }
