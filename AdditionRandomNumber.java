@@ -1,4 +1,5 @@
 package New.folder;
+
 public class AdditionRandomNumber {
 
     public static void main(String[] args) {
