@@ -1,4 +1,5 @@
 package New.folder;
+
 public class NumericalPattern1 {
     
     public static void main(String[] args) {
